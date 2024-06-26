@@ -1,0 +1,51 @@
+﻿@using MVC_MİMARİSİ.Models.EntityFrameWork;
+@model List<TBL_OGRT>
+    @{
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <table class="table table-bordered">
+        <tr>
+            <th>
+                ÖĞREtMEN ID
+            </th>
+            <th>
+                ÖĞRETMEN AD
+            </th>
+            <th>
+                ÖĞRETMEN SOYAD
+            </th>
+            <th>
+                CİNSİYET
+            </th>
+            <th>
+                ÖĞRETMEN BRANŞI
+            </th>
+            <th>
+                MAİL
+            </th>
+
+
+
+
+        </tr>
+        <tbody>
+            @foreach (var ogrt in Model)
+            {
+
+                <tr>
+                    <td>@ogrt.OGRTID</td>
+                    <td>@ogrt.OGRTAD</td>
+                    <td>@ogrt.OGRTSOYAD</td>
+                    <td>@ogrt.OGRTBRANS</td>
+                    <td>@ogrt.OGRTCINSIYET</td>
+                    <td>@ogrt.OGRTMAİL</td>
+
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+

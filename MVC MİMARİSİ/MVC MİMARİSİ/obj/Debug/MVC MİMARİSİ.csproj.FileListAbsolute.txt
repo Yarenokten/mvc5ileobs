@@ -1,0 +1,90 @@
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\MVC MİMARİSİ.dll.config
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\MVC MİMARİSİ.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\MVC MİMARİSİ.pdb
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csc.exe
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csc.exe.config
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csc.rsp
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csi.exe
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csi.exe.config
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\csi.rsp
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.AppContext.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Collections.Immutable.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Console.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Globalization.Calendars.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.IO.Compression.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.IO.FileSystem.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Net.Http.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Net.Sockets.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Reflection.Metadata.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.ValueTuple.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Xml.XPath.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\vbc.exe
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\vbc.exe.config
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\vbc.rsp
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\VBCSCompiler.exe
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\roslyn\VBCSCompiler.exe.config
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Antlr3.Runtime.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Microsoft.Web.Infrastructure.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Newtonsoft.Json.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Helpers.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Mvc.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Optimization.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Razor.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.Deployment.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.Razor.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\WebGrease.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Helpers.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Mvc.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Optimization.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.Razor.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.Deployment.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\System.Web.WebPages.Razor.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Newtonsoft.Json.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Antlr3.Runtime.pdb
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.Helpers.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.Mvc.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.Optimization.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.Razor.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.WebPages.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\obj\Debug\MVC MİMARİSİ.csproj.AssemblyReference.cache
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\obj\Debug\MVC MİMARİSİ.csproj.CoreCompileInputs.cache
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\obj\Debug\MVC MİMA.07608B45.Up2Date
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\obj\Debug\MVC MİMARİSİ.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\obj\Debug\MVC MİMARİSİ.pdb
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\EntityFramework.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\EntityFramework.SqlServer.dll
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\EntityFramework.xml
+D:\asp.netwebsitesi\MVC MİMARİSİ\MVC MİMARİSİ\bin\EntityFramework.SqlServer.xml

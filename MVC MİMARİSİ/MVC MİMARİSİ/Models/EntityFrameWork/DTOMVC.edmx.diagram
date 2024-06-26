@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d5fcac4a2aa64dd8a2efe28f964c99f8" Name="Diagram1">
+        <EntityTypeShape EntityType="DTOMVCModel.TBL_DERSLER" Width="1.5" PointX="3.5" PointY="4.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="DTOMVCModel.TBL_KULUPLER" Width="1.5" PointX="0.75" PointY="1.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="DTOMVCModel.TBL_NOTLAR" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DTOMVCModel.TBL_OGRENCILER" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <AssociationConnector Association="DTOMVCModel.FK_TBL_NOTLAR_TBL_DERSLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DTOMVCModel.FK_TBL_OGRENCILER_TBL_KULUPLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DTOMVCModel.FK_TBL_NOTLAR_TBL_OGRENCILER" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="DTOMVCModel.TBL_OGRT" Width="1.5" PointX="0.875" PointY="4.125" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\mvc m\u0130mar\u0130s\u0130\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\views\\ogrenci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\mvc m\u0130mar\u0130s\u0130\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\mvc m\u0130mar\u0130s\u0130\\views\\ogrenci\\ogrencigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\views\\ogrenci\\ogrencigetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|d:\\asp.netwebsitesi\\mvc m\u0130mar\u0130s\u0130\\mvc m\u0130mar\u0130s\u0130\\views\\notlar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\views\\notlar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|d:\\asp.netwebsitesi\\mvc m\u0130mar\u0130s\u0130\\mvc m\u0130mar\u0130s\u0130\\views\\notlar\\notgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\views\\notlar\\notgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|d:\\asp.netwebsitesi\\mvc m\u0130mar\u0130s\u0130\\mvc m\u0130mar\u0130s\u0130\\views\\kulup\\kulupgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18506C37-6A67-497D-93BC-AFDF8A20977D}|MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130.csproj|solutionrelative:mvc m\u0130mar\u0130s\u0130\\views\\kulup\\kulupgetir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotGetir.cshtml",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\NotGetir.cshtml",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\NotGetir.cshtml",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\NotGetir.cshtml",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\NotGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:24:44.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KulupGetir.cshtml",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Kulup\\KulupGetir.cshtml",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Views\\Kulup\\KulupGetir.cshtml",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Kulup\\KulupGetir.cshtml",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Views\\Kulup\\KulupGetir.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T12:15:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\Index.cshtml",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\Index.cshtml",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Views\\Notlar\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-26T11:59:16.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciGetir.cshtml",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\OgrenciGetir.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:36:53.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\Index.cshtml",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\Index.cshtml",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Views\\Ogrenci\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T21:35:41.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "MVC M\u0130MAR\u0130S\u0130\\Controllers\\OgrenciController.cs",
+              "ToolTip": "D:\\asp.netwebsitesi\\MVC M\u0130MAR\u0130S\u0130\\MVC M\u0130MAR\u0130S\u0130\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "MVC M\u0130MAR\u0130S\u0130\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAQwE4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:44:16.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

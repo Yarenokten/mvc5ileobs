@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="text-center">HESAP MAKİNESİ</h2>
+<br />
+<style>
+   
+
+    .form-group {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+        .form-group div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .form-group input {
+            margin-bottom: 10px;
+            width: 200px; 
+        }
+
+    .btn-warning {
+        margin: 20px auto; 
+    }
+
+    .result {
+        margin-top: 20px; 
+    }
+</style>
+
+<body>
+    <form class="form-group" method="post">
+        <div>
+            <label for="sayi1">Sayi1:</label>
+            <input type="text" name="sayi1" id="sayi1" /><br /><br />
+            <label for="sayi2">Sayi2:</label>
+            <input type="text" name="sayi2" id="sayi2" /><br /> <br />
+            <button class="btn btn-warning">HESAPLA</button>
+            <div class="result">
+                Sonuç: @ViewBag.snc
+            </div>
+        </div>
+    </form>
+</body>
